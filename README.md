@@ -26,8 +26,3 @@ I am Kürşat Coşkun, working as a Full Stack Developer in Etiya, Ankara.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-green&logoColor=white" />
 </p>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kursatcoskun&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kursatcoskun&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kursatcoskun)
