@@ -16,7 +16,8 @@ I am Kürşat Coşkun, working as a Full Stack Developer in Etiya, Ankara.
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-        
+ <br/>
+ <br/>
  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
  <img alt="ngxs" src="https://img.shields.io/badge/-NGXS-764ABC?style=flat-square&logo=ngxs&logoColor=white" />
  <img alt="react" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
