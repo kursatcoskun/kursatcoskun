@@ -23,7 +23,8 @@ I am Kürşat Coşkun, working as a Full Stack Developer in Etiya, Ankara.
  <img alt="react" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  
+ <br/>
+ <br/>
  <img alt="java" src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java" /> 
  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" /> 
  <img alt="springboot" src="https://img.shields.io/badge/-Spring Boot-43853d?style=flat-square&logo=springboot" /> 
