@@ -11,12 +11,18 @@ I am Kürşat Coşkun, working as a Full Stack Developer in Etiya, Ankara.
 
  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+   <img alt="react" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+     <br/>
+   
  <img alt="java" src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java" /> 
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" /> 
- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
- <img alt="react" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> 
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+
+ 
+  
+
   <img alt="git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img alt="bitbucket" src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
