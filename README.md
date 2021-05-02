@@ -1,6 +1,6 @@
 
 
-I am Kürşat Coşkun, working as a Full Stack Developer in Etiya, Ankara.
+I am Kürşat Coşkun, working as a Senior Frontend Developer in Etiya, Ankara.
 
 [![Linkedin Badge](https://img.shields.io/badge/-kursatcoskun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kursatcoskun/)](https://www.linkedin.com/in/kursatcoskun/)
 [![Medium Badge](https://img.shields.io/badge/-@kursatcoskun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kursatcoskun/)](https://medium.com/@kursatcoskun)
